@@ -1,6 +1,7 @@
 
-### Hi there, I'm KEERTANA GANIGA[https://keertanaganiga.github.io] 👋
+### Hi there, I'm KEERTANA GANIGA 👋
 
+- 🤩 Personal Portfolio Website [https://keertanaganiga.github.io].
 - 🔭 I’m currently pursuing Computer Science and Engineering,
 - 🌱 I’m currently learning Machine Learning,JS,CSS,Kotlin
 - 💬 Ask me about Python,HTML,C,Java
