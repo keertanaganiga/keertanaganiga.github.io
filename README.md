@@ -1,4 +1,4 @@
-# keertanaganiga.github.io.
+
 ### Hi there, I'm KEERTANA GANIGA[https://keertanaganiga.github.io] 👋
 
 - 🔭 I’m currently pursuing Computer Science and Engineering,
