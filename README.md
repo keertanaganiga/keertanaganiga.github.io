@@ -7,5 +7,4 @@ Hi there, I'm KEERTANA GANIGA 👋
 -📫 How to reach me: [www.linkedin.com/in/keertanaganiga] [keertanaganiga@gmail.com]
 -favorite things to do : Cubic solving, Photography 📸, Drawing 🎨
 
-
 ------ 💜Don’t be trapped in someone else’s dream💜 -BTS
